@@ -128,6 +128,10 @@ firewall-cmd --zone=public --add-port=2237/tcp
 
 - [ifconfig vs ip](https://www.tecmint.com/ifconfig-vs-ip-command-comparing-network-configuration/)
 
+## iptables
+
+ - [Template](LinuxTipsSubPages/iptables-template.md)
+
 ## **John Jumbo**
 
 - **Manual install:**
