@@ -4,4 +4,5 @@
 - `security.cert_pinning.enforcement_level` -> 0
 
 ## Wrong time zone
-`privacy.resistFingerprinting` -> False
+- `about:config`
+- `privacy.resistFingerprinting` -> False
