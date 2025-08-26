@@ -430,7 +430,7 @@ Output: `http%3A%2F%2Fexample.com%2F%3Fparam%3Dlinux%2Burl%2Bencoder`
 
 ## Wine
 
-[Double-click .exe files ](Tips%20043ecd625f2a4c53ae9b35c04325ed7b/Double-click%20exe%20files%201a63fdfbfae880959012eb60d4891ab3.md)
+[Double-click .exe files ](LinuxTipsSubPages/Double-click-exe-files.md)
 
 ## WoeUSB
 
