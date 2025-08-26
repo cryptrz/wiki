@@ -1,7 +1,7 @@
 ## Bypass HSTS temporarily
 
 - `about:config`
-- Search for: `security.cert_pinning.enforcement_level` -> 0
+- `security.cert_pinning.enforcement_level` -> 0
 
 ## Wrong time zone
 `privacy.resistFingerprinting -> False` 
