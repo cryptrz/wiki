@@ -62,6 +62,10 @@ https://linux.die.net/man/8/aureport)
     **2.** Clear dentries and inodes. `sync; echo 2 > /proc/sys/vm/drop_caches`
     
     **3.** Clear pagecache, dentries, and inodes. `sync; echo 3 > /proc/sys/vm/drop_caches`
+
+## ClamAV
+
+[ClamAV installation and setup on Debian/Ubuntu](LinuxTipsSubPages/ClamAV-on-Debian-based.md)
     
 
 ## CRON
