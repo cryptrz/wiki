@@ -1,3 +1,5 @@
+# Reduce Sysmon's size
+
 Here's a step-by-step approach to reduce the size:
 
 ---
