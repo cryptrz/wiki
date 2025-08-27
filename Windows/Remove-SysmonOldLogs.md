@@ -1,4 +1,4 @@
-# Remove old logs created by Syslog
+# Remove old logs created by Sysmon
 
 1. Open your favorite **text editor** and **create the file** `Remove-SysmonOldLogs.ps1`
 
