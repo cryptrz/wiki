@@ -106,6 +106,10 @@ firewall-cmd --zone=public --add-port=2237/tcp
 
 - **Touchpad 3 fingers with Xorg/X11**: https://itsfoss.com/three-finger-swipe-gnome
 
+## GNS3
+
+- [GNS3 installation on Ubuntu](https://gist.github.com/cryptrz/cd34f42996fd2c915842c4aa14e8d9a6)
+
 ## Hostname
 
 [Disable hostname broadcasting](LinuxTipsSubPages/DisableHostnameBroadcasting.md)
