@@ -37,6 +37,7 @@ sudo apt install ./"$1"
 - key init: https://bbs.archlinux.org/viewtopic.php?id=143337
 - Pamac install: https://www.fossmint.com/pamac-arch-linux-gui-package-manager
 - KVM/Virt-Manager install: https://computingforgeeks.com/install-kvm-qemu-virt-manager-arch-manjar
+- Sway tweaks for Arch Linux: https://gist.github.com/cryptrz/6f2b48d6cc917497b648c54c3429407c
 - Yay install: https://www.makeuseof.com/install-and-use-yay-arch-linux
 ## Aureport:
 
