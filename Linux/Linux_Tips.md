@@ -209,6 +209,10 @@ free && sync && echo 3 > /proc/sys/vm/drop_caches && free
 
 `sudo ntpdate [pool.ntp.org](http://pool.ntp.org/)`
 
+## OpenVAS
+
+[Install OpenVAS on Ubuntu/Debian](LinuxTipsSubPages/install-openvas.md)
+
 ## Ports
 
 - Check open ports: `sudo netstat -tulpn | grep LISTEN`
