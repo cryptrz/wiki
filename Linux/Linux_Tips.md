@@ -254,6 +254,10 @@ key-mgmt=WPA-PSK
 
 - List installed packages: https://linoxide.com/list-installed-packages-fedora
 
+## Rustdesk
+
+[Install Rustdesk on Debian/Ubuntu](LinuxTipsSubPages/install-rustdesk-server.md)
+
 ## Sandboxing
 
 - https://manpages.ubuntu.com/manpages/noble/man1/subuser.1.html
