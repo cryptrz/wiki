@@ -248,7 +248,7 @@ key-mgmt=WPA-PSK
 
 ## RedShift
 
-[config](Tips%20043ecd625f2a4c53ae9b35c04325ed7b/config%2019b3fdfbfae880afa621fb44a06b10ba.md)
+[config](LinuxTipsSubPages/redmine-config.md)
 
 ## rpm command
 
