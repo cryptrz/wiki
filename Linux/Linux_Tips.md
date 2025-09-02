@@ -54,6 +54,10 @@ https://linux.die.net/man/8/aureport)
     Failed logins: `ausearch --message USER_LOGIN --success no --interpret | grep ct=root`
     
 
+## Brightness Controller
+
+[Fedora install](LinuxTipsSubPages/Brightness-Controller.md)
+
 ## Cache
 
 - Clear cache:
