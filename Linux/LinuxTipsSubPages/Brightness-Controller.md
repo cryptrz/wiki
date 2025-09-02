@@ -9,7 +9,7 @@
 **Notes and Troubleshooting:**
 
 - Brightness Controller works by adjusting color profiles using `xrandr`, so it may not function under Wayland sessions or with some hardware configurations:
--   https://github.com/LordAmit/Brightness.
+  - https://github.com/LordAmit/Brightness.
 
 - For systems where Brightness Controller does not work, alternatives like `brightnessctl` or `light` are available in Fedora’s repositories and can be installed with `sudo dnf install brightnessctl` or `sudo dnf install light`:
   - https://discussion.fedoraproject.org/t/no-screen-brightness-problems-in-fedora/112737
