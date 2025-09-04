@@ -68,6 +68,10 @@ https://linux.die.net/man/8/aureport)
     
     **3.** Clear pagecache, dentries, and inodes. `sync; echo 3 > /proc/sys/vm/drop_caches`
 
+## Cisco Packet Tracer
+
+[Arch and Ubuntu 24.04 installation](LinuxTipsSubPages/packettracer_installation.md)
+
 ## ClamAV
 
 [ClamAV installation and setup on Debian/Ubuntu](LinuxTipsSubPages/ClamAV-on-Debian-based.md)
