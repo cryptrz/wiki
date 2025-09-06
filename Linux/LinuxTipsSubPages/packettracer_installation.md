@@ -4,6 +4,7 @@ Download the deb file from https://www.netacad.com/resources/lab-downloads
 
 ```bash
 cd ~
+sudo pacman -S git base-devel
 git clone https://aur.archlinux.org/packettracer.git
 mv Downloads/Packet_Tracer822_amd64_signed.deb packettracer
 cd packettracer
