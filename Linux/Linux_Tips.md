@@ -30,6 +30,7 @@ sudo apt install ./"$1"
 - Arch Cheat Sheet: https://github.com/Stickano/ArchCheatSheet
 - Automated install: https://www.debugpoint.com/archinstall-guide
 - Blackarch on Arch: https://philosophos.github.io/articles/20170305~Installing-BlackArch-on-top-of-ArchLinux/
+- Blackarch on Arch / Solve conflicts: `sudo pacman -Syu blackarch --overwrite '*'`
 - Bluetooth install: https://www.jeremymorgan.com/tutorials/linux/how-to-bluetooth-arch-linux
 - Dababase locked: https://wiki.archlinux.org/title/pacman#%22Failed_to_init_transaction_(unable_to_lock_database)%22_error
 - Devel packages: `sudo pacman -S --needed base-devel`
