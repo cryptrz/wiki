@@ -29,6 +29,8 @@ sudo apt install ./"$1"
 
 - Arch Cheat Sheet: https://github.com/Stickano/ArchCheatSheet
 - Automated install: https://www.debugpoint.com/archinstall-guide
+- Yay install: https://www.makeuseof.com/install-and-use-yay-arch-linux
+- pacman's Pac-Man-style progress bar: In `/etc/pacman.conf` under `#Options` add `ILoveCandy`
 - Blackarch on Arch: https://philosophos.github.io/articles/20170305~Installing-BlackArch-on-top-of-ArchLinux/
 - Blackarch on Arch / Solve conflicts: `sudo pacman -Syu blackarch --overwrite '*'`
 - Bluetooth install: https://www.jeremymorgan.com/tutorials/linux/how-to-bluetooth-arch-linux
@@ -39,7 +41,7 @@ sudo apt install ./"$1"
 - Pamac install: https://www.fossmint.com/pamac-arch-linux-gui-package-manager
 - KVM/Virt-Manager install: https://computingforgeeks.com/install-kvm-qemu-virt-manager-arch-manjar
 - Sway tweaks for Arch Linux: https://gist.github.com/cryptrz/6f2b48d6cc917497b648c54c3429407c
-- Yay install: https://www.makeuseof.com/install-and-use-yay-arch-linux
+
 ## Aureport:
 
 https://linux.die.net/man/8/aureport)
