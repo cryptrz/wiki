@@ -32,7 +32,7 @@ sudo apt install ./"$1"
 - Yay install: https://www.makeuseof.com/install-and-use-yay-arch-linux
 - pacman's Pac-Man-style progress bar: In `/etc/pacman.conf` under `#Options` add `ILoveCandy`
 - CUDA installation: [LinuxTipsSubPages/CUDA-ArchLinux.md](LinuxTipsSubPages/CUDA-ArchLinux.md)
-- Disable Iv6: [LinuxTipsSubPages/DisableIPv6onArchLinux.md](LinuxTipsSubPages/DisableIPv6onArchLinux.md)
+- Disable IPv6: [LinuxTipsSubPages/DisableIPv6onArchLinux.md](LinuxTipsSubPages/DisableIPv6onArchLinux.md)
 - Blackarch on Arch: https://philosophos.github.io/articles/20170305~Installing-BlackArch-on-top-of-ArchLinux/
 - Blackarch on Arch / Solve conflicts: `sudo pacman -Syu blackarch --overwrite '*'`
 - Bluetooth install: https://www.jeremymorgan.com/tutorials/linux/how-to-bluetooth-arch-linux
