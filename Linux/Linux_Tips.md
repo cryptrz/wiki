@@ -299,15 +299,24 @@ semanage port -l | grep ssh
 systemctl restart sshd.service
 ```
 
+## Sonic Pi
+
+[Linux Mint install](LinuxTipsSubPages/SonicPiLinuxMintInstall.md) 
+
+
+## SPICE agent installation for UTM
+
+```
+sudo apt update
+sudo apt install spice-vdagent spice-webdavd qemu-guest-agent
+sudo reboot
+```
+
 ## SSH
 
 - [SSH command usage, options, and configuration in Linux/Unix](https://www.ssh.com/academy/ssh/command)
 
 [SSH permissions](LinuxTipsSubPages/SSHPermissions.md) 
-
-## Sonic Pi
-
-[Linux Mint install](LinuxTipsSubPages/SonicPiLinuxMintInstall.md) 
 
 ## sudo
 
