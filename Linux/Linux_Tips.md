@@ -231,6 +231,25 @@ free && sync && echo 3 > /proc/sys/vm/drop_caches && free
 
 `sudo ntpdate [pool.ntp.org](http://pool.ntp.org/)`
 
+## OpenNebula
+
+**Sunstone:** GUI
+**Port 2616/tcp** if not proxied
+**Default user:** `oneadmin`
+
+---
+
+### Deploy miniONE frontend and KVM node Cloud
+
+```
+wget'https://github.com/OpenNebula/minione/releases/latest/download/minione'
+
+sudo bash minione
+```
+**source:** https://github.com/OpenNebula/minione
+
+---
+
 ## OpenVAS
 
 [Install OpenVAS on Ubuntu/Debian](LinuxTipsSubPages/install-openvas.md)
