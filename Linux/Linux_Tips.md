@@ -237,9 +237,7 @@ free && sync && echo 3 > /proc/sys/vm/drop_caches && free
 **Port 2616/tcp** if not proxied
 **Default user:** `oneadmin`
 
----
-
-### Deploy miniONE frontend and KVM node Cloud
+#### Deploy miniONE frontend and KVM node Cloud
 
 ```
 wget'https://github.com/OpenNebula/minione/releases/latest/download/minione'
@@ -247,8 +245,6 @@ wget'https://github.com/OpenNebula/minione/releases/latest/download/minione'
 sudo bash minione
 ```
 **source:** https://github.com/OpenNebula/minione
-
----
 
 ## OpenVAS
 
