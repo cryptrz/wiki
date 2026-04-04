@@ -201,7 +201,7 @@ firewall-cmd --zone=public --add-port=2237/tcp
 
 ## LUKS
 
-[Install LUKS manually](Linux/LinuxTipsSubPages/LUKS.md)
+[Install LUKS manually](LinuxTipsSubPages/LUKS.md)
 
 ## Mail
 
