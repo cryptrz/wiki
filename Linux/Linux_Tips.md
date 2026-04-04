@@ -248,6 +248,10 @@ sudo bash minione
 ```
 **source:** https://github.com/OpenNebula/minione
 
+## OpenNMS
+
+[OpenNMS and SNMP installation](LinuxTipsSubPages/OpenNMS.md)
+
 ## OpenVAS
 
 [Install OpenVAS on Ubuntu/Debian](LinuxTipsSubPages/install-openvas.md)
