@@ -19,5 +19,5 @@
 ## Radio
 
 [HamRadio](HamRadio)
-- [HackRF](HackRF)
-- [Midland_XT70](Midland_XT70)
+- [HackRF](HamRadio/HackRF)
+- [Midland_XT70](HamRadio/Midland_XT70)
